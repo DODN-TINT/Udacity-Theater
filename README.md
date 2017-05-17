@@ -5,6 +5,13 @@ This is a super simple iOS application that displays the Udacity web interface i
 
 Since WKWebView isn't a full browser, there will probably be some UI that doesn't work anymore, like popups and external links.
 
+Instructions
+-----------
+* Clone this repository
+* Open Udacity Theather.xcoeproj in XCode
+* Update Team settings to a valid profile on your computer
+* Run on your device
+
 How does it work
 ---------------
 
